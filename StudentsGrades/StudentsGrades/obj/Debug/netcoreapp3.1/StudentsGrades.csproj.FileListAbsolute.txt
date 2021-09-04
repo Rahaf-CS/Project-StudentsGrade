@@ -1,0 +1,12 @@
+/Users/rahafnasser/Projects/StudentsGrades/StudentsGrades/bin/Debug/netcoreapp3.1/StudentsGrades.deps.json
+/Users/rahafnasser/Projects/StudentsGrades/StudentsGrades/bin/Debug/netcoreapp3.1/StudentsGrades.runtimeconfig.json
+/Users/rahafnasser/Projects/StudentsGrades/StudentsGrades/bin/Debug/netcoreapp3.1/StudentsGrades.runtimeconfig.dev.json
+/Users/rahafnasser/Projects/StudentsGrades/StudentsGrades/bin/Debug/netcoreapp3.1/StudentsGrades.dll
+/Users/rahafnasser/Projects/StudentsGrades/StudentsGrades/bin/Debug/netcoreapp3.1/StudentsGrades.pdb
+/Users/rahafnasser/Projects/StudentsGrades/StudentsGrades/obj/Debug/netcoreapp3.1/StudentsGrades.csprojAssemblyReference.cache
+/Users/rahafnasser/Projects/StudentsGrades/StudentsGrades/obj/Debug/netcoreapp3.1/StudentsGrades.AssemblyInfoInputs.cache
+/Users/rahafnasser/Projects/StudentsGrades/StudentsGrades/obj/Debug/netcoreapp3.1/StudentsGrades.AssemblyInfo.cs
+/Users/rahafnasser/Projects/StudentsGrades/StudentsGrades/obj/Debug/netcoreapp3.1/StudentsGrades.csproj.CoreCompileInputs.cache
+/Users/rahafnasser/Projects/StudentsGrades/StudentsGrades/obj/Debug/netcoreapp3.1/StudentsGrades.dll
+/Users/rahafnasser/Projects/StudentsGrades/StudentsGrades/obj/Debug/netcoreapp3.1/StudentsGrades.pdb
+/Users/rahafnasser/Projects/StudentsGrades/StudentsGrades/obj/Debug/netcoreapp3.1/StudentsGrades.genruntimeconfig.cache
